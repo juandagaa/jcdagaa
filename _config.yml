@@ -1,12 +1,12 @@
 # Site settings
-title: Mi prueba web Jekyll
-email: juan@dagaa.mx
+title: 
+email: contacto@dagaa.mx
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/testjuan" # the subpath of your site, e.g. /blog/
 url: "https://juandagaa.github.io/testjuan" # the base hostname & protocol for your site
 
-twitter_username: juanito
-github_username: juandagaa
+twitter_username: dagaa_development
+github_username: degaadevelopment
 
 # Build settings
 markdown: kramdown
